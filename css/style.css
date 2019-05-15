@@ -269,9 +269,10 @@ a.active {
 .btn-primary {
     color:#fff;
     background-color: darkgoldenrod;
-    padding: 10px 20px;
+    padding: 13px 48px 13px 48px;
+    margin : 20px 0px 0px 0px  ;
     border-color: darkgoldenrod;
-    border-radius: 0;
+    border-radius: 45px;
 }
 
 .table-cell {
